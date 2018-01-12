@@ -1,12 +1,11 @@
 '''
-    Program: My Magical Calculator
+    Program: My Calculator
     Author: Cody York
-    Copyright: 2017
 '''
 
 import re
 
-print("***** My Magical Calculator ******")
+print("***** My Calculator ******")
 print("****** Type 'quit' to exit ****** \n")
 
 
